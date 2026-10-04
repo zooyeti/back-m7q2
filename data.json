@@ -1,0 +1,173 @@
+{
+  "updated": "2026-09-26",
+  "appName": "Back Strength",
+  "phase": "Stage 1: Foundation",
+  "tagline": "15 min · 3–4 days/week · resistance bands only",
+  "sessionsPerWeek": 3,
+  "rotation": ["A", "B"],
+  "bigPicture": [
+    "This program builds a stronger, steadier back with just a set of bands and a door anchor. Every session moves your spine and hips through all three planes: forwards and back (sagittal), side to side (frontal), and rotation (transverse). A back that copes with movement in every direction tends to cope better with everyday life.",
+    "It's built for mild, ongoing aches, so everything is gentle and controlled. The goal is a stronger back, not a harder workout."
+  ],
+  "constraintsTitle": "Read this first",
+  "constraints": [
+    "Work in a pain-free range. Mild muscle effort is fine. Sharp, pinching or nervy pain is not — stop that exercise and skip it for the day.",
+    "Stop and get checked if pain shoots down a leg or arm, you get numbness or tingling, the aches get worse over a week or two instead of easing, or you have night pain that wakes you. Any change in bladder or bowel control needs urgent medical help.",
+    "This is general exercise programming, not medical advice. If the aches are long-standing, run the program past a physio or GP, especially before moving up a band."
+  ],
+  "howItWorks": [
+    "Two sessions, A and B, about 15 minutes each. Alternate them: A, B, A on three days, or A, B, A, B on four, and carry on the pattern into the next week.",
+    "Leave at least one rest day between sessions where you can.",
+    "Rest 30–45 seconds between sets. Breathe out on the effort.",
+    "You need a light and a medium loop or tube band, a door anchor (or a sturdy post to loop the band round), and a mat. The lateral band walk needs a loop band.",
+    "Pick the band that lets you finish every rep with good form and leaves 2–3 reps in the tank. If the last reps get shaky, or you feel it in your lower back rather than the target muscles, go lighter.",
+    "Use the Band box when you log a session — it shows you what you used last time so you know when it's time to move up."
+  ],
+  "workouts": {
+    "A": {
+      "label": "Session A",
+      "name": "Pull, hinge, side bend, anti-rotation",
+      "intro": "About 15 minutes. Log sets, reps and which band you used. Leave anything blank you skipped.",
+      "exercises": [
+        {
+          "name": "Cat-Cow",
+          "sets": 1,
+          "reps": "1 min",
+          "notes": "Sagittal · warm-up. On hands and knees, slowly round and arch your back, only as far as feels comfortable. Breathe steadily.",
+          "track": "time",
+          "guide": "https://www.acefitness.org/resources/everyone/exercise-library/15/cat-cow/"
+        },
+        {
+          "name": "Standing Band Row",
+          "sets": 2,
+          "reps": "12",
+          "notes": "Sagittal. Anchor the band at hip to chest height. Pull elbows back past your ribs, squeeze shoulder blades gently, return slowly.",
+          "track": "band",
+          "guide": "https://us.physitrack.com/home-exercise-video/resisted-low-rows-in-standing"
+        },
+        {
+          "name": "Band Pull-Through",
+          "sets": 2,
+          "reps": "12",
+          "notes": "Sagittal. Anchor low, face away, band between your legs. Push hips back with a soft knee bend and a flat back, then stand tall and squeeze your glutes.",
+          "track": "band",
+          "guide": "https://generationiron.com/banded-pull-through-exercise-guide/"
+        },
+        {
+          "name": "Standing Band Side Bend",
+          "sets": 2,
+          "reps": "10 each side",
+          "notes": "Frontal. Stand on one end of the band, hold the other in the same-side hand. Lean sideways slowly, then return to upright. Small range is fine.",
+          "track": "band",
+          "guide": "https://fitnessvolt.com/band-side-bend/"
+        },
+        {
+          "name": "Pallof Press",
+          "sets": 2,
+          "reps": "10 each side",
+          "notes": "Transverse. Anchor at chest height, stand side-on. Press straight out, hold 2 seconds, resist the pull to twist, return.",
+          "track": "band",
+          "guide": "https://www.hingehealth.com/resources/articles/pallof-press/"
+        },
+        {
+          "name": "Child's Pose",
+          "sets": 1,
+          "reps": "45 sec",
+          "notes": "Cool-down. Sit back onto your heels, arms long in front. Breathe slowly and let your back lengthen.",
+          "track": "time",
+          "guide": "https://health.clevelandclinic.org/childs-pose"
+        }
+      ]
+    },
+    "B": {
+      "label": "Session B",
+      "name": "Upper back, hips, rotation",
+      "intro": "About 15 minutes. Log sets, reps and which band you used. Leave anything blank you skipped.",
+      "exercises": [
+        {
+          "name": "Pelvic Tilts",
+          "sets": 1,
+          "reps": "1 min",
+          "notes": "Sagittal · warm-up. Lie on your back, knees bent. Gently flatten your lower back into the floor, then release. Slow and small.",
+          "track": "time",
+          "guide": "https://www.hingehealth.com/resources/articles/pelvic-tilt/"
+        },
+        {
+          "name": "Band Pull-Apart",
+          "sets": 2,
+          "reps": "15",
+          "notes": "Sagittal. Hold the band at chest height, arms straight. Pull it apart until your arms are out to the sides, squeezing your shoulder blades. Return slowly.",
+          "track": "band",
+          "guide": "https://www.hingehealth.com/resources/articles/band-pull-aparts/"
+        },
+        {
+          "name": "Band Lat Pulldown",
+          "sets": 2,
+          "reps": "12",
+          "notes": "Sagittal. Anchor the band overhead. Kneel or stand, pull elbows down towards your ribs, control the return. Don't lean back.",
+          "track": "band",
+          "guide": "https://www.dmoose.com/blogs/lats/band-kneeling-lat-pulldown"
+        },
+        {
+          "name": "Lateral Band Walk",
+          "sets": 2,
+          "reps": "10 steps each way",
+          "notes": "Frontal. Band around your thighs, just above the knees. Slight knee bend, step sideways keeping tension on the band. Log total steps as reps.",
+          "track": "band",
+          "guide": "https://www.muscleandstrength.com/exercises/lateral-band-walk"
+        },
+        {
+          "name": "Band Woodchop",
+          "sets": 2,
+          "reps": "10 each side",
+          "notes": "Transverse. Anchor high to one side. Pull the band diagonally across your body to the opposite hip, turning from ribs and hips together. Slow on the way back.",
+          "track": "band",
+          "guide": "https://www.motra.com/exercises/resistanceBandStandingWoodChop"
+        },
+        {
+          "name": "Knees-to-Chest Stretch",
+          "sets": 1,
+          "reps": "45 sec",
+          "notes": "Cool-down. Lie on your back and hug both knees gently towards your chest. Breathe slowly.",
+          "track": "time",
+          "guide": "https://www.hingehealth.com/resources/articles/knee-to-chest/"
+        }
+      ]
+    }
+  },
+  "conditioningTitle": "Progression",
+  "conditioning": [
+    "Weeks 1–2: sets and reps as written.",
+    "Weeks 3–4: add a third set to each band exercise. Sessions grow to roughly 18 minutes.",
+    "Weeks 5–6: keep three sets and slow the return phase down to a three-count. Same band, harder work.",
+    "Week 7 onwards: move up to the next band on the exercises that feel easy, and drop back to two sets for the first week on the heavier band."
+  ],
+  "schedule": [
+    { "week": 1, "rotation": "A – B – A (– B)", "note": "Two sets each. Learn the movements, keep the range small." },
+    { "week": 2, "rotation": "A – B – A (– B)", "note": "" },
+    { "week": 3, "rotation": "A – B – A (– B)", "note": "Add a third set to each band exercise" },
+    { "week": 4, "rotation": "A – B – A (– B)", "note": "Check in: are the aches easing?" },
+    { "week": 5, "rotation": "A – B – A (– B)", "note": "Three sets, slow three-count on the way back" },
+    { "week": 6, "rotation": "A – B – A (– B)", "note": "" },
+    { "week": 7, "rotation": "A – B – A (– B)", "note": "Try the next band on the easy exercises, two sets" },
+    { "week": 8, "rotation": "A – B – A (– B)", "note": "Reassess and plan the next stage" }
+  ],
+  "roadmap": [
+    {
+      "phase": "Stage 2",
+      "trigger": "After about 6 weeks, once Stage 1 feels comfortable and pain-free",
+      "text": "Step up to the heavier band on the exercises that feel easy, keep three sets, and keep the slow three-count on the return."
+    },
+    {
+      "phase": "Later",
+      "trigger": "When the aches have settled",
+      "text": "Add new movements or longer holds, or fold this into a wider routine. Worth a check with a physio first if the aches haven't eased."
+    }
+  ],
+  "notes": [
+    "Slow and controlled beats big and fast. Never let the band snap back.",
+    "Keep your ribs stacked over your hips and avoid arching your lower back.",
+    "Check the band for nicks or tears before each session, and don't stretch it beyond about three times its resting length.",
+    "Use “Add an exercise” at the bottom of a session to log anything that isn't listed. Added exercises stay on your phone and come back next time."
+  ]
+}
